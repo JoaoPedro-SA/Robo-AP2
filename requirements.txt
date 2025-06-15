@@ -1,4 +1,0 @@
-requests
-beautifulsoup4
-openpyxl
-# pip install -r requirements.txt
