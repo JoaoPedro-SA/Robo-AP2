@@ -1,7 +1,7 @@
 # %%
 import pyautogui
 import time
-import pandas as pd 
+import pandas as pd
 from openpyxl import Workbook
 from openpyxl.worksheet.table import Table, TableStyleInfo
 
@@ -228,4 +228,56 @@ PassarOsDadosDoRelatorioParaExcel(RegistroDeAcoes)
 
 
 
+# for i in RegistroDeAcoes:
+#      print(f"{i}\n")
 
+
+# coluna = posicaoDaColuna(colunas,"tarefa")
+# print(coluna)
+
+# coluna = posicaoDaColuna(colunas,"dado")
+# print(coluna)
+
+
+
+# for linha in range(0, len(tabelaDados)):
+#      for coluna in range(0, len(colunas)):
+#           acao(capturarDadoDeAcao(tabelaDados,linha,coluna),
+#                capturarDadoDeAcao(tabelaDados,linha,coluna),
+#                capturarDadoDeAcao(tabelaDados,linha,coluna))
+     
+
+
+# for linha in range(0, len(tabelaDados)):
+#      acao(capturarDadoDeAcao(tabelaDados,linha,list(colunas).index("tarefa")),
+#           capturarDadoDeAcao(tabelaDados,linha,list(colunas).index("tipo")),
+#           capturarDadoDeAcao(tabelaDados,linha,list(colunas).index("tarefa")))
+     
+
+# print(list(colunas).index("tarefa"))
+
+
+
+# print(tabelaDados.columns)
+
+
+            
+
+# print(capturarDadoDeAcao(tabelaDados,0,0))
+# print(capturarDadoDeAcao(tabelaDados,0,1))
+# print(capturarDadoDeAcao(tabelaDados,0,2))
+
+
+
+# print(capturarDadoDeAcao(0,tabelaDados))
+
+# %%
+
+# apertaButton(capturarDadoDeAcao(tabelaDados,0,2))
+# time.sleep(1)
+# digitaTexto("bloco de notas")
+# time.sleep(1)
+# apertaButton("enter")
+
+
+# %%

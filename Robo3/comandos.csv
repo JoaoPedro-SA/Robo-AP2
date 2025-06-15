@@ -1,27 +1,32 @@
 tarefa,tipo,dado
-Abrir o Windows,tecla,win
-Pesquisar por Bloco de Notas,texto,bloco de notas
-Entrar no Bloco de Notas,tecla,enter
-Esperar 4s,pausa,4
+abri o windows,tecla,win
+Pesquisar por bloco,texto,bloco de notas
+Entrar no bloco de notas ,tecla,enter
+Esperar 4s ,Pausa,2
 Mover o mouse para o centro,mouseCentro,0
-Esperar 4s,pausa,4
-Executar triplo clique,3click,3
-Esperar 4s,pausa,4
-Digitar no Bloco de Notas,texto,Estou digitando texto aqui no bloco de notas.
-Esperar 8s,pausa,8
-Executar triplo clique novamente,3click,3
-Esperar 2s,pausa,2
-Dar delete,tecla,delete
-Esperar 2s,pausa,2
-Digitar novo texto no Bloco de Notas,texto,Estou digitando um novo texto aqui no bloco de notas.
-Esperar 8s,pausa,8
-Executar triplo clique pela 2ª vez,3click,3
-Dar delete pela 2ª vez,tecla,delete
-Fechar o Bloco de Notas,2teclas,alt f4
-Esperar 2s,pausa,2
-Abrir o Windows novamente,tecla,win
-Esperar 2s,pausa,2
-Pesquisar por Relatórios,texto,Documento:RelatorioDeExeculcao.xlsx
-Esperar 2s,pausa,2
-Entrar no Relatório,tecla,enter
-Esperar 2s,pausa,2
+esperar 4s ,Pausa,2
+Execultado pela 2 vez triplo Click,3click,3
+Esperar 4s ,Pausa,2
+Digitar no bloco notas ,texto,Estou digitando texto aqui no bloco de notas.
+Esperar 8s ,Pausa,8
+Execultado triplo Click,3click,3
+Esperar 2s ,Pausa,2
+Dando delete ,tecla,delete
+Esperar 2s ,Pausa,2
+Digitar no bloco notas novamente ,texto,Estou digitando um novo texto aqui no bloco de notas.
+Esperar 8s ,Pausa,8
+Execultado pela 2 vez triplo Click,3click,3
+Dando delete pela 2 vez,tecla,delete
+Fechar o bloco notas,2teclas,alt f4
+Esperar 2s ,Pausa,2
+abri o windows,tecla,win
+Esperar 2s ,Pausa,2
+pesquisar por relatorios,texto,Documento:RelatorioDeExeculcao.xlsx
+Esperar 2s ,Pausa,2
+Dando Entrar no relatorio,tecla,enter
+Esperar 2s ,Pausa,2
+
+
+
+
+
