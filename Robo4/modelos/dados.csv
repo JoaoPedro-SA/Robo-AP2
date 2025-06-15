@@ -1,0 +1,4 @@
+nro,bairro,cep,ddd,endereco,nome_fantasia,razao_social,telefone,nome_cidade,uf_estado,classificacao_nome
+1,Centro,01001000,11,Rua A,Auto Assist,Auto Assistência Ltda,1122334455,São Paulo,SP,Autorizada
+2,Centro,20010000,21,Rua B,Tech Help,Assistência Tech Ltda,2198765432,Rio de Janeiro,RJ,Não Autorizada
+3,Centro,30120000,31,Rua C,BH Assist,Assistência BH Ltda,3133344556,Belo Horizonte,MG,Independente
